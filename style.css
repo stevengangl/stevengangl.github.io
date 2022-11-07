@@ -27,3 +27,7 @@ body {
   font-size: 14pt;
   color: #17255a;
 }
+.picright {
+  float:right;
+  margin-left:20px
+}
