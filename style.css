@@ -36,7 +36,11 @@ h1 {
   color:; 
   font-size: 40px; 
   font-family: times, arial, helvetica, sans-serif;
-  }
+  border: 1px solid black; 
+  padding-right: 0px;
+  padding-left: 75px;
+  width: 120%
+}
   
   
   
