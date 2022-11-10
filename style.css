@@ -1,55 +1,37 @@
 body {
-  background-color: #f5f5f5;
-  color: #000000;
-  font-family: Arial, Helvetica, sans-serif;
-  margin: 10% 20%;
-}
-
-.exp-header {
-  text-align: left;
-  color: #6969b3;
-  text-transform: 
-  border-top: 
-  border-bottom: 
-  background-color: rgba(0,0,0, 0.0)
-}
-.exp-header1 { 
-  color: #98c1d9;
-  border-bottom: 1px solid #dddddd;
-  font-size: 16pt;
-}
-
-.name {
-  border-bottom: 1px solid #dddddd;
-}
-.work-experience1 {
-  border-bottom: 1px solid #dddddd;
-  font-size: 14pt;
-  color: #17255a;
-}
-.picright {
-  float:right;
-  margin-left:0px
+  background-color: green;
 }
 
 h1 {
-  color:; 
-  font-size: 40px; 
-  font-family: times, arial, helvetica, sans-serif;
-  border: 1px solid black; 
-  padding-right: 0px;
-  padding-left: 75px;
-  width: 120%
+  color: purple;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-
+img {
+  width: 50%;
   
 }
-  
-  
-  
-  
-  
-  
-  
+
+p, li {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  border: 5px solid black;
+  background-color: red;
+  margin-left: 10px;
+  padding-left: 100px;
+}
+
+.footer {
+  background-color: blue;
+  color: pink;
+  border: 1px solid yellow;
+  padding-left: 100px
+}
+
+div {
+  border: 3px solid black;
 }
