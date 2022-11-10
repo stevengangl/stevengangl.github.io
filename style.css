@@ -1,37 +1,14 @@
 body {
+  background-color: #444444;
+  color: #dddddd;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10% 20%;
+}
+
+.experience-header {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid #dddddd;  
+  border-bottom: 1px solid #dddddd;
   background-color: green;
-}
-
-h1 {
-  color: purple;
-  font-size: 24px;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-img {
-  width: 10%;
-  
-}
-
-p, li {
-  color: white;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.header {
-  border: 5px solid black;
-  background-color: red;
-  margin-left: 10px;
-  padding-left: 100px;
-}
-
-.footer {
-  background-color: blue;
-  color: pink;
-  border: 1px solid yellow;
-  padding-left: 100px
-}
-
-div {
-  border: 3px solid black;
 }
