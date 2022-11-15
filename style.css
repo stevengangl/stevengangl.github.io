@@ -60,6 +60,7 @@ header{
   font-family: Times New Roman;
   border-bottom: 0px solid black;
   text-shadow: 2px 2px 5px red;
+  fontsize: 64px;
 }
 
 li {
