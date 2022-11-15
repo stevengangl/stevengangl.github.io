@@ -16,14 +16,15 @@ body {
 .experience {
   text-align: center;
   text-transform: ;
-  border-top: 0px solid black;  
-  border-bottom: 0px solid black;
+  border-top: 2px solid black;  
+  border-bottom: 2px solid black;
   background-color: #ACB9BC; 
   letter-spacing: .25em;
   color: green;
-  font-size: 34px;
+  font-size: 38px;
   text-decoration-line: underline;
   text-decoration-style: double;
+  font-family: monospace;
 }
 h2 {
   text-align: 
@@ -37,6 +38,7 @@ h3 {
 
 h4 {
   font-size: 30px;
+  font-family: serif;
   
 }
 
@@ -60,9 +62,10 @@ h6{
   font-stretch: ;
   border: 0px dotted green;
   margin: 0% 5%;
-  font-size: 46px;
+  font-size: 50px;
   text-align: center;
   font-style: oblique;
+  font-family: cursive;
 }
  
 header{
