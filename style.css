@@ -19,40 +19,50 @@ body {
   border-top: 0px solid black;  
   border-bottom: 0px solid black;
   background-color: #ACB9BC; 
-  letter-spacing: .15em;
+  letter-spacing: .25em;
   color: green;
+  font-size: 34px;
+  text-decoration-line: underline;
+  text-decoration-style: double;
 }
 h2 {
   text-align: 
   margin: 10%;
-  font-size: 26px;
+  font-size: 46px;
+}
+
+h3 {
+  font-size: 28px;
 }
 
 h4 {
-  font-size: 20px;
+  font-size: 30px;
   
 }
 
 h6{
   text-indent: 2em;
   background: ;
-  font-size: 14px;
+  font-size: 24px;
   text-decoration-line: underline;
   text-decoration-color: blue;  
   text-decoration-style: wavy;
 }
 .summary {
-  font-size: 17px;
+  font-size: 26px;
   text-align: justify;
+  font-variant: small-caps;
 }
 
 .jobs {
-  text-transform: uppercase;
+  text-transform: ;
   text-decoration: underline;
   font-stretch: ;
   border: 0px dotted green;
   margin: 0% 5%;
-  font-size: 26px;
+  font-size: 46px;
+  text-align: center;
+  font-style: oblique;
 }
  
 header{
@@ -60,9 +70,11 @@ header{
   font-family: Times New Roman;
   border-bottom: 0px solid black;
   text-shadow: 2px 2px 5px red;
-  fontsize: 64px;
+  font-size: 40px;
 }
 
 li {
   color: white; 
+  font-size: 20px;
+  font-style: italic;
 }
