@@ -3,10 +3,10 @@ body {
   color: black;
   font-weight: lighter;
   font-family: Arial, Helvetica, sans-serif;
-  margin: 0% 0%;
+  margin: 5% 10%;
   text-transform:
   text-align: center;
-  border: 1px dotted black;
+  border: 3px dotted black;
 }
 
 .experience {
