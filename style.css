@@ -11,7 +11,7 @@ body {
   text-align: center;
   padding:15px 50px 15px 50px;
   border: 8mm ridge;
-  
+  border-radius: 50px;
 }
 
 .experience {
